@@ -10,6 +10,5 @@
 
 ## 我的项目
 
-- [轻语天气系列图标](https://www.iconfont.cn/collections/detail?spm=a313x.user_detail.i1.dc64b3430.25a73a81LvXgZD&cid=48871)
 
  
